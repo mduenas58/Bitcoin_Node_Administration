@@ -45,9 +45,9 @@ This project focuses on **Linux-based environments** (Debian/Ubuntu) and emphasi
 To run the interactive setup wizard on a fresh Debian/Ubuntu server:
 
 ```bash
-git clone https://github.com/yourusername/bitcoin-node-admin.git
-cd bitcoin-node-admin
-sudo ./install/setup.sh
+git clone https://github.com/mduenas58/Bitcoin_Node_Administration.git
+cd Bitcoin_Node_Administration
+sudo
 ```
 
 ## 🛡️ Security First
