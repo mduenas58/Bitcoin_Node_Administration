@@ -11,10 +11,14 @@
             "id": "8d6642299d075931",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tor - The Onion Router"
             }
           }
         ]
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-Admin/Github Personal Access Token (PAT) generate.md",
+                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-Admin/Github Personal Access Token (PAT) generate.md",
+                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-Admin/Github Personal Access Token (PAT) generate.md",
+                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,6 +190,8 @@
   },
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
+    "7-Admin/Github Personal Access Token (PAT) generate.md",
+    "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
     "1-Node_Architecture/c-Node-hardening",
     "1-Node_Architecture/b-Network-Privacy",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks",
@@ -196,7 +202,6 @@
     "4-Automation_and_Monitoring",
     "3-Recovery_Backups_Custody",
     "1-Node_Architecture",
-    "7-Admin/Github Personal Access Token (PAT) generate.md",
     "2-Lighting_Network"
   ]
 }
