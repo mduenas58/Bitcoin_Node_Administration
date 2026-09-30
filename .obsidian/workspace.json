@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "56ab0cb69e43295d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitcoin node consultant for LATAM - Claude"
+            }
+          },
+          {
             "id": "e476648132991fb1",
             "type": "leaf",
             "state": {
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,6 +234,7 @@
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
+    "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
     "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
