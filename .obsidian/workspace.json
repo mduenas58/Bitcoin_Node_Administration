@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "34b1625e9ce93135",
+            "id": "a19ff678f53c6c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning_Bitcoin_from_the_Command-Line"
+              "title": "Bitcoin Core Consulting"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,8 +205,9 @@
   },
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
-    "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+    "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
+    "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
     "7-Admin/Github Personal Access Token (PAT) generate.md",
     "1-Node_Architecture/c-Node-hardening",
     "1-Node_Architecture/b-Network-Privacy",
