@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tor - The Onion Router"
             }
+          },
+          {
+            "id": "34b1625e9ce93135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning_Bitcoin_from_the_Command-Line"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
+                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +205,9 @@
   },
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
-    "7-Admin/Github Personal Access Token (PAT) generate.md",
     "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
+    "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
+    "7-Admin/Github Personal Access Token (PAT) generate.md",
     "1-Node_Architecture/c-Node-hardening",
     "1-Node_Architecture/b-Network-Privacy",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks",
