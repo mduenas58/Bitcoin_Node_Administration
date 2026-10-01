@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "b20f3ad91c1a7e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Lighting_Network/a-Core Lighting/How routing works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How routing works"
+            }
+          },
+          {
             "id": "e476648132991fb1",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
+                "file": "2-Lighting_Network/a-Core Lighting/How routing works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
+                "file": "2-Lighting_Network/a-Core Lighting/How routing works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -218,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
+                "file": "2-Lighting_Network/a-Core Lighting/How routing works.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,9 +261,13 @@
   },
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
+    "2-Lighting_Network/a-Core Lighting",
+    "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
+    "2-Lighting_Network/a-Core Lighting/How routing works.md",
+    "3-Recovery_Backups_Custody/a-Disaster Recovery",
+    "3-Recovery_Backups_Custody/b-Hardware Wallet",
     "3-Recovery_Backups_Custody/c-Multisig Quorums",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
-    "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Learning_Bitcoin_from_the_Command-Line.md",
@@ -262,9 +280,6 @@
     "7-Admin",
     "6-Brand_Building",
     "5-Market_Positioning",
-    "4-Automation_and_Monitoring",
-    "3-Recovery_Backups_Custody",
-    "1-Node_Architecture",
-    "2-Lighting_Network"
+    "4-Automation_and_Monitoring"
   ]
 }
