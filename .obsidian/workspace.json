@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d6642299d075931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/b-Network-Privacy/Tor - The Onion Router.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tor - The Onion Router"
-            }
-          },
-          {
-            "id": "a19ff678f53c6c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitcoin Core Consulting"
-            }
-          },
-          {
-            "id": "56ab0cb69e43295d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin node consultant for LATAM - Claude.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitcoin node consultant for LATAM - Claude"
-            }
-          },
-          {
-            "id": "dbddd10b3330f0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Recovery_Backups_Custody/c-Multisig Quorums/Remote Multisig Key Ceremony Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Remote Multisig Key Ceremony Protocol"
-            }
-          },
-          {
-            "id": "b20f3ad91c1a7e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Lighting_Network/a-Core Lighting/How routing works.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How routing works"
-            }
-          },
-          {
-            "id": "a57b762a32b77963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/bitcoin-cli commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bitcoin-cli commands"
-            }
-          },
-          {
-            "id": "b9089136c30701af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitcoin Core Consulting"
-            }
-          },
-          {
             "id": "d59d5b700e8d7715",
             "type": "leaf",
             "state": {
@@ -118,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Bitcoin node from an OPSEC (Operational Security)"
             }
-          },
-          {
-            "id": "e476648132991fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/umbrelOS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "umbrelOS"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
