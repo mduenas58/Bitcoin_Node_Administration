@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "How Lighting Network Works"
             }
-          },
-          {
-            "id": "def08fe624e0eebe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2026-10-02 at 2.18.21 PM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-10-02 at 2.18.21 PM"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2026-10-02 at 2.18.21 PM.png",
+                "file": "2-Lighting_Network/c-Routing and Fees/How Lighting Network Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot 2026-10-02 at 2.18.21 PM.png",
+                "file": "2-Lighting_Network/c-Routing and Fees/How Lighting Network Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2026-10-02 at 2.18.21 PM.png",
+                "file": "2-Lighting_Network/c-Routing and Fees/How Lighting Network Works.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,10 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "def08fe624e0eebe",
+  "active": "277d28385da1307c",
   "lastOpenFiles": [
-    "2-Lighting_Network/b-Liquidity Management/Opening, closing and managing Lightning channels.md",
     "Screenshot 2026-10-02 at 2.18.21 PM.png",
+    "Untitled.md",
+    "2-Lighting_Network/b-Liquidity Management/Opening, closing and managing Lightning channels.md",
     "2-Lighting_Network/c-Routing and Fees/How Lighting Network Works.md",
     "1-Node_Architecture/c-Node-hardening/Bitcoin node from an OPSEC (Operational Security).md",
     "1-Node_Architecture/a-Bitcoin-nodes-Frameworks/Bitcoin Core Consulting.md",
