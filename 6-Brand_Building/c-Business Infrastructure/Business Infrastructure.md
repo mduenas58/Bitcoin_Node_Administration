@@ -1,0 +1,1 @@
+- **Business Infrastructure:** Set up a professional website, a calendaring system for consulting calls, and a secure invoicing method (ideally accepting BTC via BTCPay Server hosted on your own node).
