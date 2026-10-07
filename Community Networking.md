@@ -1,0 +1,1 @@
+- **Community Networking:** Engage with LATAM Bitcoin communities on Twitter/X, Telegram, and Nostr. Offer free audits or troubleshooting for community members to build a portfolio of successful cases.
