@@ -1,0 +1,1 @@
+- **Content Creation:** Write technical tutorials or create video walkthroughs in Spanish. Topics could include migrating from Umbrel to a bare-metal installation or setting up RTL.
