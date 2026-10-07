@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Market_Positioning/b-Localization/Market Context.md",
+                "file": "5-Market_Positioning/c-Market Context/Market Context.md",
                 "mode": "source",
                 "source": false
               },
@@ -248,7 +248,7 @@
   "active": "542f8137f5a39d3d",
   "lastOpenFiles": [
     "5-Market_Positioning/b-Localization/Documento informativo para clientes.md",
-    "5-Market_Positioning/b-Localization/Market Context.md",
+    "5-Market_Positioning/c-Market Context/Market Context.md",
     "5-Market_Positioning/a-Service Packaging/Procedimiento- Instalación de Nodos de Bitcoin para Comercios.md",
     "4-Automation_and_Monitoring/c-Alerting Systems/Python monitoring script.md",
     "4-Automation_and_Monitoring/b-Python Integration/Python scripts that interact with the Bitcoin Core.md",
